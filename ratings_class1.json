@@ -1,0 +1,766 @@
+{
+  "last_updated": "June 02, 2026",
+  "league_average": -6.24,
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "St. Elizabeth",
+      "district": 3,
+      "ovr_rating": 8.55,
+      "off_rating": 4.8756,
+      "off_rank": 1,
+      "def_rating": 3.6725,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Silex",
+      "district": 4,
+      "ovr_rating": 4.71,
+      "off_rating": 0.8707,
+      "off_rank": 3,
+      "def_rating": 3.8433,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Northeast Cairo",
+      "district": 3,
+      "ovr_rating": 4.06,
+      "off_rating": 0.5368,
+      "off_rank": 7,
+      "def_rating": 3.5218,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Glasgow",
+      "district": 3,
+      "ovr_rating": 3.81,
+      "off_rating": 1.7416,
+      "off_rank": 2,
+      "def_rating": 2.072,
+      "def_rank": 7
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Albany",
+      "district": 8,
+      "ovr_rating": 3.62,
+      "off_rating": 0.649,
+      "off_rank": 5,
+      "def_rating": 2.9703,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 6,
+      "school": "North Shelby",
+      "district": 4,
+      "ovr_rating": 3.03,
+      "off_rating": -0.715,
+      "off_rank": 18,
+      "def_rating": 3.7401,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 7,
+      "school": "Princeton",
+      "district": 8,
+      "ovr_rating": 2.8,
+      "off_rating": 0.7658,
+      "off_rank": 4,
+      "def_rating": 2.0297,
+      "def_rank": 8
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Jamestown",
+      "district": 3,
+      "ovr_rating": 2.74,
+      "off_rating": 0.2962,
+      "off_rank": 8,
+      "def_rating": 2.4396,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 9,
+      "school": "Gallatin",
+      "district": 6,
+      "ovr_rating": 1.35,
+      "off_rating": -0.2675,
+      "off_rank": 13,
+      "def_rating": 1.617,
+      "def_rank": 10
+    },
+    {
+      "ovr_rank": 10,
+      "school": "Marion C. Early",
+      "district": 1,
+      "ovr_rating": 1.21,
+      "off_rating": -0.2243,
+      "off_rank": 11,
+      "def_rating": 1.4333,
+      "def_rank": 13
+    },
+    {
+      "ovr_rank": 11,
+      "school": "DeKalb",
+      "district": 7,
+      "ovr_rating": 0.55,
+      "off_rating": -0.6175,
+      "off_rank": 16,
+      "def_rating": 1.1667,
+      "def_rank": 14
+    },
+    {
+      "ovr_rank": 12,
+      "school": "Stanberry",
+      "district": 7,
+      "ovr_rating": 0.54,
+      "off_rating": 0.1485,
+      "off_rank": 9,
+      "def_rating": 0.394,
+      "def_rank": 15
+    },
+    {
+      "ovr_rank": 13,
+      "school": "Halfway",
+      "district": 1,
+      "ovr_rating": 0.51,
+      "off_rating": -0.9903,
+      "off_rank": 25,
+      "def_rating": 1.5005,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Wheatland",
+      "district": 2,
+      "ovr_rating": 0.34,
+      "off_rating": 0.6433,
+      "off_rank": 6,
+      "def_rating": -0.3032,
+      "def_rank": 18
+    },
+    {
+      "ovr_rank": 15,
+      "school": "Worth County",
+      "district": 8,
+      "ovr_rating": -0.27,
+      "off_rating": -0.2282,
+      "off_rank": 12,
+      "def_rating": -0.0433,
+      "def_rank": 16
+    },
+    {
+      "ovr_rank": 16,
+      "school": "Norwood",
+      "district": 1,
+      "ovr_rating": -0.32,
+      "off_rating": -1.9562,
+      "off_rank": 39,
+      "def_rating": 1.6344,
+      "def_rank": 9
+    },
+    {
+      "ovr_rank": 17,
+      "school": "King City",
+      "district": 7,
+      "ovr_rating": -0.71,
+      "off_rating": -0.5343,
+      "off_rank": 15,
+      "def_rating": -0.1787,
+      "def_rank": 17
+    },
+    {
+      "ovr_rank": 18,
+      "school": "Canton",
+      "district": 4,
+      "ovr_rating": -1.41,
+      "off_rating": -0.9657,
+      "off_rank": 24,
+      "def_rating": -0.4412,
+      "def_rank": 21
+    },
+    {
+      "ovr_rank": 19,
+      "school": "Dadeville",
+      "district": 2,
+      "ovr_rating": -1.7,
+      "off_rating": -0.7792,
+      "off_rank": 21,
+      "def_rating": -0.9225,
+      "def_rank": 22
+    },
+    {
+      "ovr_rank": 20,
+      "school": "New Franklin",
+      "district": 3,
+      "ovr_rating": -1.95,
+      "off_rating": -0.7206,
+      "off_rank": 19,
+      "def_rating": -1.2252,
+      "def_rank": 23
+    },
+    {
+      "ovr_rank": 21,
+      "school": "Clopton",
+      "district": 4,
+      "ovr_rating": -1.98,
+      "off_rating": -1.5723,
+      "off_rank": 32,
+      "def_rating": -0.4069,
+      "def_rank": 19
+    },
+    {
+      "ovr_rank": 22,
+      "school": "Van Buren",
+      "district": 1,
+      "ovr_rating": -1.99,
+      "off_rating": -0.7393,
+      "off_rank": 20,
+      "def_rating": -1.2518,
+      "def_rank": 24
+    },
+    {
+      "ovr_rank": 23,
+      "school": "La Plata",
+      "district": 5,
+      "ovr_rating": -2.24,
+      "off_rating": -0.3225,
+      "off_rank": 14,
+      "def_rating": -1.9191,
+      "def_rank": 28
+    },
+    {
+      "ovr_rank": 24,
+      "school": "Community",
+      "district": 4,
+      "ovr_rating": -2.25,
+      "off_rating": -0.8864,
+      "off_rank": 23,
+      "def_rating": -1.3668,
+      "def_rank": 25
+    },
+    {
+      "ovr_rank": 25,
+      "school": "Sturgeon",
+      "district": 3,
+      "ovr_rating": -2.31,
+      "off_rating": -1.9002,
+      "off_rank": 38,
+      "def_rating": -0.4095,
+      "def_rank": 20
+    },
+    {
+      "ovr_rank": 26,
+      "school": "Putnam County",
+      "district": 5,
+      "ovr_rating": -2.33,
+      "off_rating": -3.8159,
+      "off_rank": 55,
+      "def_rating": 1.4811,
+      "def_rank": 12
+    },
+    {
+      "ovr_rank": 27,
+      "school": "Neelyville",
+      "district": 1,
+      "ovr_rating": -2.59,
+      "off_rating": 0.122,
+      "off_rank": 10,
+      "def_rating": -2.7137,
+      "def_rank": 35
+    },
+    {
+      "ovr_rank": 28,
+      "school": "Jefferson Conception",
+      "district": 7,
+      "ovr_rating": -2.88,
+      "off_rating": -0.8404,
+      "off_rank": 22,
+      "def_rating": -2.0374,
+      "def_rank": 29
+    },
+    {
+      "ovr_rank": 29,
+      "school": "Gilman City",
+      "district": 8,
+      "ovr_rating": -3.13,
+      "off_rating": -1.5294,
+      "off_rank": 30,
+      "def_rating": -1.5983,
+      "def_rank": 27
+    },
+    {
+      "ovr_rank": 30,
+      "school": "Van-Far",
+      "district": 4,
+      "ovr_rating": -3.15,
+      "off_rating": -1.0635,
+      "off_rank": 26,
+      "def_rating": -2.0899,
+      "def_rank": 30
+    },
+    {
+      "ovr_rank": 31,
+      "school": "Maysville",
+      "district": 7,
+      "ovr_rating": -3.6,
+      "off_rating": -1.3325,
+      "off_rank": 28,
+      "def_rating": -2.2636,
+      "def_rank": 32
+    },
+    {
+      "ovr_rank": 32,
+      "school": "North Andrew",
+      "district": 7,
+      "ovr_rating": -4.03,
+      "off_rating": -2.603,
+      "off_rank": 45,
+      "def_rating": -1.4231,
+      "def_rank": 26
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Stoutland",
+      "district": 1,
+      "ovr_rating": -4.25,
+      "off_rating": -1.7035,
+      "off_rank": 35,
+      "def_rating": -2.5453,
+      "def_rank": 33
+    },
+    {
+      "ovr_rank": 34,
+      "school": "Schuyler County",
+      "district": 5,
+      "ovr_rating": -4.29,
+      "off_rating": -2.0586,
+      "off_rank": 40,
+      "def_rating": -2.2267,
+      "def_rank": 31
+    },
+    {
+      "ovr_rank": 35,
+      "school": "Bishop LeBlond",
+      "district": 7,
+      "ovr_rating": -4.47,
+      "off_rating": -0.7069,
+      "off_rank": 17,
+      "def_rating": -3.7647,
+      "def_rank": 43
+    },
+    {
+      "ovr_rank": 36,
+      "school": "Montrose",
+      "district": 2,
+      "ovr_rating": -4.78,
+      "off_rating": -1.6886,
+      "off_rank": 34,
+      "def_rating": -3.0913,
+      "def_rank": 37
+    },
+    {
+      "ovr_rank": 37,
+      "school": "Pattonsburg",
+      "district": 8,
+      "ovr_rating": -4.84,
+      "off_rating": -1.2741,
+      "off_rank": 27,
+      "def_rating": -3.5645,
+      "def_rank": 42
+    },
+    {
+      "ovr_rank": 38,
+      "school": "Scotland County",
+      "district": 4,
+      "ovr_rating": -5.05,
+      "off_rating": -1.7374,
+      "off_rank": 36,
+      "def_rating": -3.314,
+      "def_rank": 39
+    },
+    {
+      "ovr_rank": 39,
+      "school": "Naylor",
+      "district": 1,
+      "ovr_rating": -5.19,
+      "off_rating": -2.6401,
+      "off_rank": 46,
+      "def_rating": -2.5506,
+      "def_rank": 34
+    },
+    {
+      "ovr_rank": 40,
+      "school": "Knox County",
+      "district": 4,
+      "ovr_rating": -6.09,
+      "off_rating": -1.6022,
+      "off_rank": 33,
+      "def_rating": -4.4913,
+      "def_rank": 46
+    },
+    {
+      "ovr_rank": 41,
+      "school": "Polo",
+      "district": 6,
+      "ovr_rating": -6.54,
+      "off_rating": -2.1237,
+      "off_rank": 42,
+      "def_rating": -4.4194,
+      "def_rank": 45
+    },
+    {
+      "ovr_rank": 42,
+      "school": "Cainsville",
+      "district": 8,
+      "ovr_rating": -6.59,
+      "off_rating": -3.4124,
+      "off_rank": 50,
+      "def_rating": -3.1785,
+      "def_rank": 38
+    },
+    {
+      "ovr_rank": 43,
+      "school": "Norborne",
+      "district": 6,
+      "ovr_rating": -6.81,
+      "off_rating": -1.5651,
+      "off_rank": 31,
+      "def_rating": -5.248,
+      "def_rank": 48
+    },
+    {
+      "ovr_rank": 44,
+      "school": "Slater",
+      "district": 6,
+      "ovr_rating": -6.83,
+      "off_rating": -2.5024,
+      "off_rank": 44,
+      "def_rating": -4.3316,
+      "def_rank": 44
+    },
+    {
+      "ovr_rank": 45,
+      "school": "North Harrison",
+      "district": 8,
+      "ovr_rating": -7.24,
+      "off_rating": -2.4093,
+      "off_rank": 43,
+      "def_rating": -4.8282,
+      "def_rank": 47
+    },
+    {
+      "ovr_rank": 46,
+      "school": "Macks Creek",
+      "district": 2,
+      "ovr_rating": -7.67,
+      "off_rating": -4.12,
+      "off_rank": 57,
+      "def_rating": -3.5504,
+      "def_rank": 41
+    },
+    {
+      "ovr_rank": 47,
+      "school": "Crocker",
+      "district": 1,
+      "ovr_rating": -7.72,
+      "off_rating": -1.4818,
+      "off_rank": 29,
+      "def_rating": -6.2425,
+      "def_rank": 54
+    },
+    {
+      "ovr_rank": 48,
+      "school": "Walnut Grove",
+      "district": 2,
+      "ovr_rating": -7.87,
+      "off_rating": -2.0799,
+      "off_rank": 41,
+      "def_rating": -5.7887,
+      "def_rank": 51
+    },
+    {
+      "ovr_rank": 49,
+      "school": "Higbee",
+      "district": 3,
+      "ovr_rating": -7.97,
+      "off_rating": -4.4917,
+      "off_rank": 60,
+      "def_rating": -3.4766,
+      "def_rank": 40
+    },
+    {
+      "ovr_rank": 50,
+      "school": "Marion County",
+      "district": 4,
+      "ovr_rating": -8.46,
+      "off_rating": -5.4354,
+      "off_rank": 66,
+      "def_rating": -3.0263,
+      "def_rank": 36
+    },
+    {
+      "ovr_rank": 51,
+      "school": "Northeast Nodaway",
+      "district": 7,
+      "ovr_rating": -8.77,
+      "off_rating": -2.8891,
+      "off_rank": 48,
+      "def_rating": -5.881,
+      "def_rank": 52
+    },
+    {
+      "ovr_rank": 52,
+      "school": "Novinger",
+      "district": 5,
+      "ovr_rating": -9.23,
+      "off_rating": -2.9466,
+      "off_rank": 49,
+      "def_rating": -6.2871,
+      "def_rank": 55
+    },
+    {
+      "ovr_rank": 53,
+      "school": "Green City",
+      "district": 5,
+      "ovr_rating": -9.26,
+      "off_rating": -3.7846,
+      "off_rank": 54,
+      "def_rating": -5.4764,
+      "def_rank": 50
+    },
+    {
+      "ovr_rank": 54,
+      "school": "Richland",
+      "district": 1,
+      "ovr_rating": -9.26,
+      "off_rating": -3.9356,
+      "off_rank": 56,
+      "def_rating": -5.3277,
+      "def_rank": 49
+    },
+    {
+      "ovr_rank": 55,
+      "school": "Brunswick",
+      "district": 6,
+      "ovr_rating": -10.01,
+      "off_rating": -3.6879,
+      "off_rank": 53,
+      "def_rating": -6.32,
+      "def_rank": 56
+    },
+    {
+      "ovr_rank": 56,
+      "school": "Brashear",
+      "district": 5,
+      "ovr_rating": -10.04,
+      "off_rating": -3.5891,
+      "off_rank": 51,
+      "def_rating": -6.4521,
+      "def_rank": 57
+    },
+    {
+      "ovr_rank": 57,
+      "school": "Macon County",
+      "district": 5,
+      "ovr_rating": -11.09,
+      "off_rating": -2.8441,
+      "off_rank": 47,
+      "def_rating": -8.2507,
+      "def_rank": 62
+    },
+    {
+      "ovr_rank": 58,
+      "school": "Meadville",
+      "district": 6,
+      "ovr_rating": -11.43,
+      "off_rating": -5.2332,
+      "off_rank": 63,
+      "def_rating": -6.2002,
+      "def_rank": 53
+    },
+    {
+      "ovr_rank": 59,
+      "school": "Atlanta",
+      "district": 5,
+      "ovr_rating": -11.56,
+      "off_rating": -1.7564,
+      "off_rank": 37,
+      "def_rating": -9.8085,
+      "def_rank": 70
+    },
+    {
+      "ovr_rank": 60,
+      "school": "Humansville",
+      "district": 2,
+      "ovr_rating": -12.07,
+      "off_rating": -3.6764,
+      "off_rank": 52,
+      "def_rating": -8.3941,
+      "def_rank": 63
+    },
+    {
+      "ovr_rank": 61,
+      "school": "Weaubleau",
+      "district": 2,
+      "ovr_rating": -13.06,
+      "off_rating": -4.3291,
+      "off_rank": 58,
+      "def_rating": -8.7282,
+      "def_rank": 65
+    },
+    {
+      "ovr_rank": 62,
+      "school": "Madison",
+      "district": 3,
+      "ovr_rating": -13.19,
+      "off_rating": -4.4532,
+      "off_rank": 59,
+      "def_rating": -8.7368,
+      "def_rank": 66
+    },
+    {
+      "ovr_rank": 63,
+      "school": "Tri-County",
+      "district": 6,
+      "ovr_rating": -13.44,
+      "off_rating": -5.3925,
+      "off_rank": 64,
+      "def_rating": -8.0516,
+      "def_rank": 60
+    },
+    {
+      "ovr_rank": 64,
+      "school": "Stewartsville",
+      "district": 7,
+      "ovr_rating": -13.73,
+      "off_rating": -4.6035,
+      "off_rank": 61,
+      "def_rating": -9.1218,
+      "def_rank": 67
+    },
+    {
+      "ovr_rank": 65,
+      "school": "Tina-Avalon",
+      "district": 6,
+      "ovr_rating": -13.88,
+      "off_rating": -6.8991,
+      "off_rank": 72,
+      "def_rating": -6.9836,
+      "def_rank": 58
+    },
+    {
+      "ovr_rank": 66,
+      "school": "Bevier",
+      "district": 5,
+      "ovr_rating": -14.31,
+      "off_rating": -6.147,
+      "off_rank": 70,
+      "def_rating": -8.1664,
+      "def_rank": 61
+    },
+    {
+      "ovr_rank": 67,
+      "school": "Grundy County",
+      "district": 8,
+      "ovr_rating": -14.7,
+      "off_rating": -6.0121,
+      "off_rank": 68,
+      "def_rating": -8.6839,
+      "def_rank": 64
+    },
+    {
+      "ovr_rank": 68,
+      "school": "Newburg",
+      "district": 1,
+      "ovr_rating": -14.73,
+      "off_rating": -5.0941,
+      "off_rank": 62,
+      "def_rating": -9.6385,
+      "def_rank": 69
+    },
+    {
+      "ovr_rank": 69,
+      "school": "Fair Play",
+      "district": 2,
+      "ovr_rating": -14.88,
+      "off_rating": -5.4185,
+      "off_rank": 65,
+      "def_rating": -9.462,
+      "def_rank": 68
+    },
+    {
+      "ovr_rank": 70,
+      "school": "Hermitage",
+      "district": 2,
+      "ovr_rating": -14.98,
+      "off_rating": -7.0492,
+      "off_rank": 73,
+      "def_rating": -7.9343,
+      "def_rank": 59
+    },
+    {
+      "ovr_rank": 71,
+      "school": "Pilot Grove",
+      "district": 3,
+      "ovr_rating": -16.59,
+      "off_rating": -6.0429,
+      "off_rank": 69,
+      "def_rating": -10.5469,
+      "def_rank": 72
+    },
+    {
+      "ovr_rank": 72,
+      "school": "Braymer",
+      "district": 6,
+      "ovr_rating": -17.25,
+      "off_rating": -7.3181,
+      "off_rank": 75,
+      "def_rating": -9.9279,
+      "def_rank": 71
+    },
+    {
+      "ovr_rank": 73,
+      "school": "Wellsville-Middletown",
+      "district": 4,
+      "ovr_rating": -18.86,
+      "off_rating": -6.3405,
+      "off_rank": 71,
+      "def_rating": -12.5145,
+      "def_rank": 74
+    },
+    {
+      "ovr_rank": 74,
+      "school": "Linn County",
+      "district": 5,
+      "ovr_rating": -20.5,
+      "off_rating": -9.7293,
+      "off_rank": 76,
+      "def_rating": -10.7672,
+      "def_rank": 73
+    },
+    {
+      "ovr_rank": 75,
+      "school": "Mercer",
+      "district": 8,
+      "ovr_rating": -21.76,
+      "off_rating": -7.2846,
+      "off_rank": 74,
+      "def_rating": -14.4716,
+      "def_rank": 75
+    },
+    {
+      "ovr_rank": 76,
+      "school": "Climax Springs",
+      "district": 2,
+      "ovr_rating": -22.21,
+      "off_rating": -5.7539,
+      "off_rank": 67,
+      "def_rating": -16.4523,
+      "def_rank": 76
+    }
+  ]
+}
